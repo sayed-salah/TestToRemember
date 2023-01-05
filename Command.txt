@@ -14,6 +14,12 @@
 2- how to switch from branch to another 
 	(git checkout branchName)
 
+3- how to show branch 
+	(git branch)
+
+4- how to merge branches
+	(git merge supbranch)
+
  to show log 
 	(git log)
 
